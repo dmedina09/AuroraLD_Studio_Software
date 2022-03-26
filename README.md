@@ -22,7 +22,7 @@ Check LogicPGS youtube channel for tutorials
 https://www.youtube.com/channel/UCBwRfFjgCiSxVayGX6VGDiw
 
 # Developer
-Diego Medina
+LogicPGS by Diego Medina
 
 Peru - 2020
 
