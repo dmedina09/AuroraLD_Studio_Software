@@ -18,6 +18,7 @@ In order to develop this software many images, sounds, icons and libraries have 
 
 # Developer
 Diego Medina
+
 Peru - 2020
 
 # Version
