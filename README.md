@@ -3,11 +3,17 @@ A ladder logic and SCADA software for Arduino and compatible boards with serial 
 
 # Attribution and Libraries
 In order to develop this software many images, sounds, icons and libraries have been used:
+
  -Program icons (tools) - Icons by https://icons8.com
+ 
  -Alarm sounds and loading music - Free music for non commercial use from https: //fesliyanstudios.com
+ 
  -Sound library by The processing Foundation
+ 
  -ControlP5 library by Andreas Schlegel
+ 
  -QScript library by Peter Lager
+ 
  -Swing (Java)
 
 # Developer
