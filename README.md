@@ -26,7 +26,5 @@ LogicPGS by Diego Medina
 
 Peru - 2020
 
-![LOGO](Images/LogicPGS_Logo.png)
-
 # Version
 v1.9
