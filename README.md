@@ -23,6 +23,7 @@ https://www.youtube.com/channel/UCBwRfFjgCiSxVayGX6VGDiw
 
 # Developer
 LogicPGS by Diego Medina
+
 Peru - 2020
 
 ![LOGO](Images/LogicPGS_Logo.png)
