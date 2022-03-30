@@ -46,4 +46,4 @@ Create an SCADA using the predefined elements. Each element has its own paramete
 * LogicPGS by Diego Medina
 
 ## Version
-v1.9
+v1.8
