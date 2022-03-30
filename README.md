@@ -20,13 +20,24 @@ In order to develop this software many images, sounds, icons and libraries have 
 When loading the software the following screen will be displayed:
 
 ![loading_screen](Images/loading_screen.png)
+
+Different ladder instructions are available and easy to use inside the ladder environment:
+
+¡[Ladder](Images/main_software2.png)
+
+Configure your tags in order to view them in the trend environment in real time:
+
+![Trends](Images/trends.png)
+
+Create an SCADA using the predifined elements. Each element has its own parameters and there are 6 global animations for almost every element.
+
+![Scada](Images/scada.png)
  
 ## Tutorials
 Check [LogicPGS](https://www.youtube.com/channel/UCBwRfFjgCiSxVayGX6VGDiw) youtube channel for tutorials
 
 ## Developer
 * LogicPGS by Diego Medina
-* Peru - 2020
 
 ## Version
 v1.9
