@@ -1,6 +1,9 @@
 # AuroraLD Studio
 AuroraLD Studio is a ladder logic and SCADA software for Arduino and compatible boards with serial communication. This software has basic instructions for ladder programming and are similar to Studio 5000 from Rockwell Automation. It has been coded in Processing and is completely free. The purpose of the software is to help students learn about PLC programming and SCADA systems not only by simulation but also by implementing low cost projects using development boards like Arduino.
 
+* An AuroraLD Studio project can be exported to .ino file.
+* This software requires the Arduino IDE software if you want to upload your project.
+
 ## Attribution and Libraries
 In order to develop this software many images, sounds, icons and libraries have been used:
 
