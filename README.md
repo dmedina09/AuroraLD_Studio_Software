@@ -23,7 +23,7 @@ When loading the software the following screen will be displayed:
 
 Different ladder instructions are available and easy to use inside the ladder environment:
 
-¡[Ladder](Images/main_software2.png)
+![Ladder](Images/main_software2.png)
 
 Configure your tags in order to view them in the trend environment in real time:
 
