@@ -17,9 +17,7 @@ In order to develop this software many images, sounds, icons and libraries have 
  -Swing (Java)
  
 # Tutorials
-Check LogicPGS youtube channel for tutorials
-
-https://www.youtube.com/channel/UCBwRfFjgCiSxVayGX6VGDiw
+Check [LogicPGS](https://www.youtube.com/channel/UCBwRfFjgCiSxVayGX6VGDiw) youtube channel for tutorials
 
 # Developer
 LogicPGS by Diego Medina
