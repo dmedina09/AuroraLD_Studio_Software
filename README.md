@@ -24,18 +24,20 @@ When loading the software the following screen will be displayed:
 Different ladder instructions are available and easy to use inside the ladder environment:
 
 ![Ladder](Images/main_software2.png)
+![Ladder2](Images/main_software1.png)
 
 Configure your tags in order to view them in the trend environment in real time:
 
 ![Trends](Images/trends.png)
 
-Create an SCADA using the predifined elements. Each element has its own parameters and there are 6 global animations for almost every element.
+Create an SCADA using the predefined elements. Each element has its own parameters and there are 6 global animations for almost every element.
 
 ![Scada](Images/scada.png)
  
 ## Tutorials
-Check [LogicPGS](https://www.youtube.com/channel/UCBwRfFjgCiSxVayGX6VGDiw) youtube channel for tutorials
+* Check [LogicPGS](https://www.youtube.com/channel/UCBwRfFjgCiSxVayGX6VGDiw) youtube channel for tutorials.
 
+* One the software is installed you can check the folder named `files` in the installation directory. That folder contains 4 manuals related to the software.
 ## Developer
 * LogicPGS by Diego Medina
 
