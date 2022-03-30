@@ -19,7 +19,7 @@ In order to develop this software many images, sounds, icons and libraries have 
 ## About
 When loading the software the following screen will be displayed:
 
-![loading_screen](images/loading_screen.png)
+![loading_screen](Images/loading_screen.png)
  
 ## Tutorials
 Check [LogicPGS](https://www.youtube.com/channel/UCBwRfFjgCiSxVayGX6VGDiw) youtube channel for tutorials
