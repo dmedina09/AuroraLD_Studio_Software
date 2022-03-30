@@ -38,9 +38,10 @@ Create an SCADA using the predefined elements. Each element has its own paramete
 ![Scada](Images/scada.png)
  
 ## Tutorials
-* Check [LogicPGS](https://www.youtube.com/channel/UCBwRfFjgCiSxVayGX6VGDiw) youtube channel for tutorials.
+* Check [LogicPGS](https://www.youtube.com/channel/UCBwRfFjgCiSxVayGX6VGDiw) youtube channel for tutorials `(spanish)`.
 
-* One the software is installed you can check the folder named `files` in the installation directory. That folder contains 4 manuals related to the software.
+* One the software is installed you can check the folder named `files` in the installation directory. That folder contains 4 manuals related to the software. The manuals are in `english`.
+
 ## Developer
 * LogicPGS by Diego Medina
 
