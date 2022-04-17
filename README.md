@@ -45,11 +45,11 @@ Create an SCADA using the predefined elements. Each element has its own paramete
 ## Add a board to AuroraLD Studio
 If you want to add a new board in AuroraLD Studio you need to create a file with the extension `.aeds`.
 
-* I have a video in `spanish` where I explain how to create this file, you can go to that video using the following [link](https://www.youtube.com/watch?v=NvcX7z2sDFM)
+* I have a video in `spanish` where I explain how to create this file, you can go to that video using the following [link](https://www.youtube.com/watch?v=NvcX7z2sDFM).
 
-* To see the basic structure of the `.aeds` file, [click here](https://gist.github.com/dmedina09/22432591cf600d8e50e93ad1cbb729a5)
+* To see the basic structure of the `.aeds` file, [click here](https://gist.github.com/dmedina09/22432591cf600d8e50e93ad1cbb729a5).
 
-* To see an example of the `.aeds` file for the raspberry pi pico [click here](https://gist.github.com/dmedina09/76b7b021d1d5cdafa3c613a3885ec639)
+* To see an example of the `.aeds` file for the raspberry pi pico [click here](https://gist.github.com/dmedina09/76b7b021d1d5cdafa3c613a3885ec639).
 
 `You can use any text editor to create this file.`
 
